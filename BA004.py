@@ -15,11 +15,11 @@ model = GaussianNB()
 x=[]
 Y =[]
 
-with open('/home/ghous/Desktop/ubuntu pythonscripts 23 April/Finally Custom/Toss/' + 'xfile' + '.txt',
+with open('xfile.txt',
           'rb') as f:
     x = pickle.load(f)
 
-with open('/home/ghous/Desktop/ubuntu pythonscripts 23 April/Finally Custom/Toss/' + 'yfile' + '.txt',
+with open('yfile.txt',
           'rb') as f:
     Y = pickle.load(f)
 
