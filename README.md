@@ -1,5 +1,5 @@
 # BA004
-Native Bayes Implementation On Toss Decision Prediction
+Naive Bayes Implementation On Toss Decision Prediction
 
 Already Processed Data 
 list of x contains [[matchtype,team1,team2,tosswin]]
